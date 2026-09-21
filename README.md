@@ -36,7 +36,7 @@ drone-power-regression/
 │   ├── Project_Proposal.pdf
 │   └── Project_Report.pdf    # full writeup: methods, diagnostics, appendix
 ├── slides/
-│   └── Group2_Presentation.pptx
+│   └── Group2_Presentation.pdf
 ```
 
 ## Reproducing the analysis
