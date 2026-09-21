@@ -1,6 +1,6 @@
 # Drone Power Consumption — Regression Analysis
 
-ISYE 6414 (Regression Analysis) final project, Georgia Institute of Technology.
+Regression Analysis final project, Georgia Institute of Technology.
 
 ## Overview
 
