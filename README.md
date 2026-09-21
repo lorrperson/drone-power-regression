@@ -1,7 +1,6 @@
 # Drone Power Consumption — Regression Analysis
 
 ISYE 6414 (Regression Analysis) final project, Georgia Institute of Technology.
-Group 2: Collin Keplinger, Lara Brown, Jada Wilson, Mackenzie Clay, Luis Ramirez.
 
 ## Overview
 
