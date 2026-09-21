@@ -1,0 +1,33 @@
+# --- Large / regenerable data ---
+data/raw/flights.csv
+data/processed/
+*.csv.gz
+
+# --- R ---
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+renv/library/
+renv/staging/
+
+# --- OS junk ---
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- Editors ---
+.vscode/
+.idea/
+*.swp
+
+# --- Office temp files ---
+~$*.pptx
+~$*.docx
+~$*.xlsx
+
+# --- Output/exports ---
+figures/*.png
+figures/*.pdf
+!figures/.gitkeep
